@@ -4,6 +4,21 @@
       "id": 2,
       "name": "Notebook Dell",
       "price": 3.6
+    },
+    {
+      "name": "Notebook Dell",
+      "price": "3000",
+      "id": 3
+    },
+    {
+      "name": "Dell",
+      "price": "70.00",
+      "id": 4
+    },
+    {
+      "name": "Nokia 2005",
+      "price": "100",
+      "id": 5
     }
   ]
 }
