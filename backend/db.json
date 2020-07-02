@@ -14,6 +14,36 @@
       "id": 1,
       "name": "Samsung A30S",
       "price": 1.3
+    },
+    {
+      "name": "Produto Teste",
+      "price": 125.98,
+      "id": 3
+    },
+    {
+      "name": "Produto Teste",
+      "price": 125.98,
+      "id": 4
+    },
+    {
+      "name": "Produto Teste",
+      "price": 125.98,
+      "id": 5
+    },
+    {
+      "name": "Nokia 2005",
+      "price": "70.00",
+      "id": 6
+    },
+    {
+      "name": "Notebook Positivo",
+      "price": "1800.00",
+      "id": 7
+    },
+    {
+      "name": "Redmi note 7",
+      "price": "1.200",
+      "id": 8
     }
   ]
 }
