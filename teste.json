@@ -1,0 +1,16 @@
+[
+  {
+    cpf: '05994793108',
+    nome: 'Samuel Alves dos Santos',
+    situacao: 'Regular',
+    numeroContaAplicacao: '557932-4',
+    numeroContaCorrente: '778461-8'
+  },
+  {
+    cpf: '02894633589',
+    nome: 'Bruno Oliveira de Souza',
+    situacao: 'Irregular',
+    numeroContaAplicacao: '557932-4',
+    numeroContaCorrente: '778461-8'
+  },
+]
